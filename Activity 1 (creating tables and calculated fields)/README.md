@@ -27,7 +27,7 @@ b)	Create a new table with the name _CUSTOMERS_ANT_XXX_ (where XXX represent the
 
 c)  Create a new calculated field named _tenure_year__by dividing the value of tenure by 12. The new field must be a decimal with 2 points.
 
-d)  Create a new calculated field with the name _charges_level_ allowing for three different values:
+d)  Create a new calculated field with the name _charges_level_ allowing for three possible values:
 
 
 charges_level = 1 for MonthlyCharges values between 0 y 20 (included)  
